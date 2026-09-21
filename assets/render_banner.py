@@ -39,8 +39,8 @@ def main():
     draw.text((90, 654), 'Experimental. Test before trusting.', fill=muted, font=font(22))
     image.save(here / 'hero.png', optimize=True)
     image.resize((1200, 675), Image.Resampling.LANCZOS).save(here / 'social-card.png', optimize=True)
-    image.crop((0, 52, 1672, 888)).resize((1280, 640), Image.Resampling.LANCZOS).save(here / 'social-preview.png', optimize=True)
-    print('Wrote assets/hero.png, assets/social-card.png and assets/social-preview.png')
+    image.crop((0, 52, 1672, 888)).resize((1280, 640), Image.Resampling.LANCZOS).save(here / 'social-preview.jpg', quality=91, optimize=True)
+    print('Wrote assets/hero.png, assets/social-card.png and assets/social-preview.jpg')
 
 
 if __name__ == '__main__':

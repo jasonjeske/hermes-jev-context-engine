@@ -40,5 +40,5 @@ inputs, not employer or sensitive data.
 - Confirm the intended public license and original artwork.
 - Re-run release checks on the final commit.
 - Change visibility only with the owner's approval and verify it afterward.
-- Optionally upload assets/social-preview.png as the GitHub social-preview image.
+- Optionally upload assets/social-preview.jpg as the GitHub social-preview image.
 - Publish through the owner's approved channel only after approving the text.

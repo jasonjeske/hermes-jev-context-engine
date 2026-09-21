@@ -2,7 +2,7 @@
 
 `artwork.png` is an original AI-generated community illustration. `hero.png` is
 the README header, `social-card.png` is a 1200 by 675 sharing image, and
-`social-preview.png` is a 1280 by 640 GitHub social-preview export. None is an
+`social-preview.jpg` is a 1280 by 640 GitHub social-preview export. None is an
 official Hermes mascot, Nous Research asset, TypeSafe logo or endorsement.
 
 Generated with OpenAI GPT Image 2, medium quality. The image was inspected for
