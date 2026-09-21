@@ -1,0 +1,27 @@
+Hermes Jev Context Engine
+
+Independent community plugin by Jason Jeske, developed with Hermes Agent.
+This repository is not an official release of, sponsored by, or endorsed by
+Nous Research, Hermes Agent, OpenRouter or TypeSafe.
+
+Hermes Agent is developed by Nous Research and distributed under the MIT
+License: https://github.com/NousResearch/hermes-agent
+Hermes itself is an external prerequisite, not bundled into this distribution.
+Its installed license continues to apply to that external software.
+
+The scoring endpoint is OpenRouter Decisions; the scoring model is TypeSafe
+Jev. These external services are subject to their own availability, pricing
+and terms. Their names and marks remain the property of their owners.
+
+Background reading and inspiration, not bundled dependencies:
+- https://github.com/keeltrace/hermes-jev
+- https://github.com/DECRUX9812/typesafe-skill-router
+
+The plugin here is a bounded selective-compaction experiment, not the model
+routing/handoff suite at https://github.com/kerpopule/hermes-jev-skills.
+
+Artwork is original AI-generated community illustration with a deterministic
+text overlay. It is not a copy of an official mascot or logo. No exclusive
+rights are claimed in purely machine-generated elements. To the extent the
+maintainer holds rights, the repository MIT permission covers these assets.
+No trademark permission or provider endorsement is implied.

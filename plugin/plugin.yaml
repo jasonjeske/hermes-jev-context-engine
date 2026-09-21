@@ -1,0 +1,7 @@
+name: tao-jev
+version: 0.1.0
+description: Experimental selective context compaction with native fallback.
+author: Jev community distribution contributors
+requires_hermes: '>=0.21'
+provides_tools: []
+provides_hooks: []

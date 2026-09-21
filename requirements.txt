@@ -1,0 +1,2 @@
+# Run with the installed Hermes Python environment; no bundled Hermes core.
+PyYAML>=6,<7
